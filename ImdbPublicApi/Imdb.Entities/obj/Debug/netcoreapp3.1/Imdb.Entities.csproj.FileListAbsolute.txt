@@ -1,0 +1,9 @@
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.Entities\bin\Debug\netcoreapp3.1\Imdb.Entities.deps.json
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.Entities\bin\Debug\netcoreapp3.1\Imdb.Entities.dll
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.Entities\bin\Debug\netcoreapp3.1\Imdb.Entities.pdb
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.Entities\obj\Debug\netcoreapp3.1\Imdb.Entities.csprojAssemblyReference.cache
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.Entities\obj\Debug\netcoreapp3.1\Imdb.Entities.AssemblyInfoInputs.cache
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.Entities\obj\Debug\netcoreapp3.1\Imdb.Entities.AssemblyInfo.cs
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.Entities\obj\Debug\netcoreapp3.1\Imdb.Entities.csproj.CoreCompileInputs.cache
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.Entities\obj\Debug\netcoreapp3.1\Imdb.Entities.dll
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.Entities\obj\Debug\netcoreapp3.1\Imdb.Entities.pdb

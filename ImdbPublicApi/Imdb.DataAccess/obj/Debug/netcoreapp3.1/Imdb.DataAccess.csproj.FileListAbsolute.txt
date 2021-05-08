@@ -1,0 +1,12 @@
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.DataAccess\bin\Debug\netcoreapp3.1\Imdb.DataAccess.deps.json
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.DataAccess\bin\Debug\netcoreapp3.1\Imdb.DataAccess.dll
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.DataAccess\bin\Debug\netcoreapp3.1\Imdb.DataAccess.pdb
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.DataAccess\bin\Debug\netcoreapp3.1\Imdb.Entities.dll
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.DataAccess\bin\Debug\netcoreapp3.1\Imdb.Entities.pdb
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.DataAccess\obj\Debug\netcoreapp3.1\Imdb.DataAccess.csprojAssemblyReference.cache
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.DataAccess\obj\Debug\netcoreapp3.1\Imdb.DataAccess.AssemblyInfoInputs.cache
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.DataAccess\obj\Debug\netcoreapp3.1\Imdb.DataAccess.AssemblyInfo.cs
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.DataAccess\obj\Debug\netcoreapp3.1\Imdb.DataAccess.csproj.CoreCompileInputs.cache
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.DataAccess\obj\Debug\netcoreapp3.1\Imdb.DataAccess.csproj.CopyComplete
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.DataAccess\obj\Debug\netcoreapp3.1\Imdb.DataAccess.dll
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.DataAccess\obj\Debug\netcoreapp3.1\Imdb.DataAccess.pdb
