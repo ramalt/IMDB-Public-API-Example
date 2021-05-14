@@ -15,6 +15,7 @@ namespace Imdb.DataAccess
 
         public DbSet<Movie> Movies { get; set; }
         public DbSet<Category> Categories { get; set; }
+        public DbSet<Star> Stars { get; set; }
        
     }
 }

@@ -84,6 +84,7 @@ namespace Imdb.DataAccess.Migrations
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Restrict);
                 });
+         
 
             migrationBuilder.CreateIndex(
                 name: "IX_CategoryMovie_MoviesId",
