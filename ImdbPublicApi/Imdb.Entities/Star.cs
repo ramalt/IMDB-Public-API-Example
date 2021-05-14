@@ -20,6 +20,6 @@ namespace Imdb.Entities
         public string Age { get; set; }
         public string Bio { get; set; }
         public string Photo { get; set; }
-        private List<MovieStar> MovieStars { get; set; }
+        private ICollection<Movie> Movies { get; set; }
     }
 }

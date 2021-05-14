@@ -13,7 +13,7 @@ namespace Imdb.Entities
         [StringLength(50)]
         [Required]
         public string CategoryName { get; set; }
-        public List<MovieCategory> MovieCategories { get; set; }
+        public ICollection<Movie> Movies { get; set; }
         
     }
 

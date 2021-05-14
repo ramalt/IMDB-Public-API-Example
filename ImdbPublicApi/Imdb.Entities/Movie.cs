@@ -22,7 +22,7 @@ namespace Imdb.Entities
         public string Subject { get; set; }
         public string Cover { get; set; }
 
-        public List<MovieCategory> MovieCategories { get; set; }
-        public List<MovieStar> MovieStars { get; set; }
+        public ICollection<Category> Categories { get; set; }
+        public ICollection<Star> Stars { get; set; }
     }
 }

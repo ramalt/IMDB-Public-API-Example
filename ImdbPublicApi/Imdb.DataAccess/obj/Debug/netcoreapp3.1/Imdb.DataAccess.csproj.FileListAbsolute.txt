@@ -10,3 +10,6 @@ C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.DataAccess\obj\Debug\netco
 C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.DataAccess\obj\Debug\netcoreapp3.1\Imdb.DataAccess.csproj.CopyComplete
 C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.DataAccess\obj\Debug\netcoreapp3.1\Imdb.DataAccess.dll
 C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.DataAccess\obj\Debug\netcoreapp3.1\Imdb.DataAccess.pdb
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.DataAccess\bin\Debug\netcoreapp3.1\Imdb.DataAccess.runtimeconfig.json
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.DataAccess\bin\Debug\netcoreapp3.1\Imdb.DataAccess.runtimeconfig.dev.json
+C:\Dev\Asp\IMDB-Public-API-Example\ImdbPublicApi\Imdb.DataAccess\obj\Debug\netcoreapp3.1\Imdb.DataAccess.genruntimeconfig.cache

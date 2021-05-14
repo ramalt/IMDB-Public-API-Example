@@ -10,12 +10,11 @@ namespace Imdb.DataAccess
         {
             base.OnConfiguring(optionsBuilder);
             optionsBuilder.UseSqlServer(
-                "Server=MACBETH;Database=IMDBDB;Trusted_Connection=True;");
+                "Server=MACBETH;Database=IMDBDb;Trusted_Connection=True;");
         }
 
-        public List<Movie> Movies { get; set; }
-        public List<Category> Categories { get; set; }
-        public List<MovieCategory> MovieCategories { get; set; }
-        public List<MovieStar> MovieStars { get; set; }
+        public DbSet<Movie> Movies { get; set; }
+        public DbSet<Category> Categories { get; set; }
+       
     }
 }
